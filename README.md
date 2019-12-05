@@ -1,16 +1,12 @@
-It's me, Tierney!
+Personal card based on [bnb's](https://github.com/bnb/bitandbang)!
 
 # Usage
 
 ## npm
 ```
-npx bitandbang
+npx maxbvrn
 ```
 
-## GitHub Package Registry
-Assuming you have the GitHub registry set up, you can use via npx:
-```
-npx @bnb/card
-```
+## yarn init maxbvrn
 
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
+Might not work well on light-colored terminal, but again, why would you use that?
